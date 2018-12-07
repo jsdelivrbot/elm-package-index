@@ -1,4 +1,4 @@
-# <img src="https://cdn.rawgit.com/cmditch/elm-ethereum/master/elm-ethereum-logo.svg" width="75"> elm-ethereum
+# <img src="https://cdn.jsdelivr.net/gh/cmditch/elm-ethereum/elm-ethereum-logo.svg" width="75"> elm-ethereum
 
 DApps in Pure Elm
 
